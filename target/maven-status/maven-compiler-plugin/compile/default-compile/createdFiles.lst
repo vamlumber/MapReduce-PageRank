@@ -1,0 +1,13 @@
+advance/db/MapValueObject.class
+advance/db/MapValueObjectOutBound.class
+bigdata/Bonus$MapImdbDirectors.class
+bigdata/Bonus$MapImdbActors.class
+advance/db/PGMapper.class
+advance/db/MakeInputFile.class
+bigdata/Entry.class
+bigdata/Entry$WordCountReducer.class
+advance/db/Entry.class
+bigdata/Entry$WordCountMapper.class
+bigdata/Bonus.class
+advance/db/PGReducer.class
+bigdata/Bonus$BonusReducer.class
